@@ -1,0 +1,50 @@
+Sand Pirates.
+Inspiration: Return of the Jedi
+Inspiration: He Who Fights with Monsters (Ustai Tribe)
+
+The priority is to make a 3D environment that the user can explore. However, forcing players to swim sucks and I don't want to make the user swim everywhere. So, put them on a sand ground. The boats themselves would be hovering over the sand, with their style more focused on aerodynamics and so domed on the tops but flat on the bottom, making the interiors simpler.
+
+The boats can be generic boat shapes with thrusters added to make them hover?
+They'll need anchors and wooden platforms to serve as docks.
+
+Assets:
+https://assetstore.unity.com/packages/3d/vehicles/sea/poly-angel-mini-pirates-island-267015
+https://assetstore.unity.com/packages/3d/props/exterior/realistic-sandbags-95964
+https://assetstore.unity.com/packages/3d/environments/sandbags-cover-7834
+https://assetstore.unity.com/packages/3d/rocket-kit-karting-microgame-add-ons-180501
+https://assetstore.unity.com/packages/3d/environments/free-low-poly-desert-pack-106709
+https://assetstore.unity.com/packages/3d/environments/landscapes/polydesert-107196
+https://assetstore.unity.com/packages/3d/environments/modern-bench-pack-221011
+https://assetstore.unity.com/packages/3d/props/3d-low-poly-tables-241833
+
+Textures:
+https://assetstore.unity.com/packages/2d/textures-materials/floors/yughues-free-sand-materials-12964
+https://www.poliigon.com/texture/wavy-sand-texture/6997
+https://assetstore.unity.com/packages/2d/textures-materials/wood/stylized-wood-texture-153499
+https://assetstore.unity.com/packages/2d/textures-materials/wood/wooden-floor-pack-31492
+https://assetstore.unity.com/packages/2d/textures-materials/metals/yughues-free-metal-materials-12949
+https://assetstore.unity.com/packages/2d/textures-materials/roof-textures-4k-179130
+
+
+Models for me to make:
+Box, Banana, Beverage
+Beachside cocktail? Colourful?
+Perhaps a refreshment bar?
+A clifftop
+Prickly Pears mean cactus too.
+Put a house on the boat.
+Plenty of oppurtunities for interaction in a house.
+Can even have wardrobes and things in the house but focus on pirate vibes.
+
+Gold texture for the goblet.
+https://www.freepik.com/free-photo/yellow-texture_969644.htm#query=gold%20texture&position=6&from_view=keyword&track=ais&uuid=b09688d2-b446-40cc-8ef5-b00451f0fe25
+
+The goblet has been made. The texture was mirrored.
+
+Wood texture for the background of cocktail
+https://www.freepik.com/free-photo/white-wooden-texture_975121.htm#query=simple%20wood%20texture&position=8&from_view=keyword&track=ais&uuid=608e560f-a8b3-4c9c-ba6a-19921d639782
+Water texture
+https://www.freepik.com/free-photo/blue-liquid-marble-background-diy-flowing-texture-experimental-art_15595780.htm#query=liquid&position=9&from_view=search&track=sph&uuid=58a4dc97-fd6b-4369-a093-fd360c36952e
+
+24/02/16: 
+Terrain is a thing that exists, very cool
