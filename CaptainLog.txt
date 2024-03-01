@@ -55,3 +55,10 @@ https://pixabay.com/vectors/lemon-fruit-food-yellow-fruit-25342/
 
 My box will be a pizza box with pizza in it.
 Needs to be higher poly. Triangular cheese?
+
+24/03/01:
+Pizza box finished (cheese wedges and a label)
+
+Animated pizza box prefab made :)
+
+Also invisible bounding box
