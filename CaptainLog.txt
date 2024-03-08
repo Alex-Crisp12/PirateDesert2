@@ -62,3 +62,13 @@ Pizza box finished (cheese wedges and a label)
 Animated pizza box prefab made :)
 
 Also invisible bounding box
+
+24/03/08:
+Importing the cocktail glass
+I need to do the textures more justice.
+
+Umbrella
+https://www.pngall.com/swirl-png/download/56473
+
+Straw:
+https://ambientcg.com/view?id=Candy001
