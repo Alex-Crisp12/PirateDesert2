@@ -72,3 +72,9 @@ https://www.pngall.com/swirl-png/download/56473
 
 Straw:
 https://ambientcg.com/view?id=Candy001
+
+24/03/13:
+Basic world engineering started.
+Grass and dirt and such layers make the terrain object pretty
+A simple fence has been set up for one edge of the bounding box
+I need to get pro builder set up to build more though

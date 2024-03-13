@@ -22,7 +22,7 @@ public class DrinkCocktail : MonoBehaviour
         if (other.gameObject.CompareTag("Player"))
         {
             Debug.Log("Ping");
-            other.BroadcastMessage("EnterFood", this);
+            other.SendMessage("EnterFood", this);
         }
     }
 
@@ -31,7 +31,7 @@ public class DrinkCocktail : MonoBehaviour
         if (other.gameObject.CompareTag("Player"))
         {
             Debug.Log("Pong");
-            other.BroadcastMessage("ExitFood", this);
+            other.SendMessage("ExitFood", this);
         }
     }
 
