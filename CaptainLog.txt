@@ -78,3 +78,17 @@ Basic world engineering started.
 Grass and dirt and such layers make the terrain object pretty
 A simple fence has been set up for one edge of the bounding box
 I need to get pro builder set up to build more though
+
+24/03/15:
+Let's make a simple door model.
+
+The double door is a single maya model so that it's easier to animate.
+The animator should be one the model as a whole, not the individual pieces.
+Pro builder exists now.
+
+Plan buildings ahead of making them.
+
+The invisible wall needs to have a logical reason to exist.
+A fence at the end of the jetty for example.
+
+Maybe the water can just be a quart with no collider.
