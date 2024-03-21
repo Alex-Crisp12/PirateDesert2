@@ -92,3 +92,7 @@ The invisible wall needs to have a logical reason to exist.
 A fence at the end of the jetty for example.
 
 Maybe the water can just be a quart with no collider.
+
+24/03/17:
+Wood texture used for the jetty supports.
+https://ambientcg.com/view?id=PaintedWood007B
