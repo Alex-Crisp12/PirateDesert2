@@ -29,7 +29,6 @@ public class PizzaScript : MonoBehaviour
 
     private void OnTriggerExit(Collider other)
     {
-        Debug.Log("Exiting collider");
         if (other.tag == "Player")
         {
             animator.SetTrigger("Close");

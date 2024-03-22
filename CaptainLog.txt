@@ -96,3 +96,13 @@ Maybe the water can just be a quart with no collider.
 24/03/17:
 Wood texture used for the jetty supports.
 https://ambientcg.com/view?id=PaintedWood007B
+
+24/03/22:
+The water is several transparent quarts. It's totally actually fog.
+The jetty has been moved. I need to find better fences for it.
+The boat didn't have colliders and the default mesh colliders caused problems so I made do.
+Here are the skyboxes I used
+https://assetstore.unity.com/packages/2d/textures-materials/sky/midgard-skybox-273733
+
+Cocktail animated and fixed triggers
+I'm gonna use different boats instead so screw that noise.

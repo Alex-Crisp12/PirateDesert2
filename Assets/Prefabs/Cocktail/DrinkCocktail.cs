@@ -19,24 +19,9 @@ public class DrinkCocktail : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.CompareTag("Player"))
+        if (other.tag == "Player")
         {
-            Debug.Log("Ping");
-            other.SendMessage("EnterFood", this);
+            animator.SetTrigger("Open");
         }
-    }
-
-    private void OnTriggerExit(Collider other)
-    {
-        if (other.gameObject.CompareTag("Player"))
-        {
-            Debug.Log("Pong");
-            other.SendMessage("ExitFood", this);
-        }
-    }
-
-    public void Eat()
-    {
-        animator.SetTrigger("DrinkTrigger");
     }
 }
