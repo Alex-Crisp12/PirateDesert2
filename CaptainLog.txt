@@ -106,9 +106,17 @@ https://assetstore.unity.com/packages/2d/textures-materials/sky/midgard-skybox-2
 
 Cocktail animated and fixed triggers
 I'm gonna use different boats instead so screw that noise.
+https://assetstore.unity.com/packages/3d/vehicles/sea/boats-pack-67293
 
 24/03/26:
 The different boats need jets adding to them.
 To do this, I've made a model that is the right girth for adding them with relative ease.
 https://ambientcg.com/view?id=Metal032
-Stingray is being an arse.
+Stingray is being an unpleasant person.
+Nevertheless, I have made a prefab for three of the jets on a support, letting me make hover-aerofoils.
+I've also animated the two boats I've made in this manner to bob.
+
+24/03/27:
+I have adjusted the bounding box so that more of the cafeteria is accessible.
+I made a prefab for the cocktail and fixed the animation to work with the prefab.
+Next up, make an interior for the cafeteria.
