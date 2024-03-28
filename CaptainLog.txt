@@ -120,3 +120,15 @@ I've also animated the two boats I've made in this manner to bob.
 I have adjusted the bounding box so that more of the cafeteria is accessible.
 I made a prefab for the cocktail and fixed the animation to work with the prefab.
 Next up, make an interior for the cafeteria.
+
+24/03/28:
+First, I need to settle on materials for the interiors.
+https://ambientcg.com/view?id=Wood052
+https://ambientcg.com/view?id=Tiles074
+
+I have made space for a window and created two quads for the double glazing.
+It does not reflect the player.
+The interior has a floor that is separate from the outer trim (marble checker pattern)
+The counter needs two different tones but I can't decide on colours until I have a ceiling and lights.
+Let's put the light fittings in barrels.
+The roof/ceiling is a simple red tiling because of course it is.
