@@ -132,3 +132,13 @@ The interior has a floor that is separate from the outer trim (marble checker pa
 The counter needs two different tones but I can't decide on colours until I have a ceiling and lights.
 Let's put the light fittings in barrels.
 The roof/ceiling is a simple red tiling because of course it is.
+
+24/04/13:
+Interior time (I can do this this time)
+
+Benches:
+https://assetstore.unity.com/packages/3d/props/furniture/old-wooden-bench-pbr-230143
+Chairs:
+https://assetstore.unity.com/packages/3d/props/furniture/wooden-table-and-chair-18996
+Tables:
+https://assetstore.unity.com/packages/3d/props/3d-low-poly-tables-241833
