@@ -142,3 +142,10 @@ Chairs:
 https://assetstore.unity.com/packages/3d/props/furniture/wooden-table-and-chair-18996
 Tables:
 https://assetstore.unity.com/packages/3d/props/3d-low-poly-tables-241833
+
+24/04/14:
+windows on da second building:
+https://ambientcg.com/view?id=Facade001
+
+various terrain thingies:
+https://assetstore.unity.com/packages/3d/environments/free-low-poly-raft-on-the-desert-141948
