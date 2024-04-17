@@ -149,3 +149,13 @@ https://ambientcg.com/view?id=Facade001
 
 various terrain thingies:
 https://assetstore.unity.com/packages/3d/environments/free-low-poly-raft-on-the-desert-141948
+
+24-04/16:
+Various mixamo assets will be used, starting with Roth to be a chef individual.
+Hat
+https://poly.pizza/m/73a4yE7VyqD
+
+24/04/17:
+cactus texture (I made it green)
+polyhaven.com/a/sakura_bark
+The cactus model and fruit will be made by me since finding cactus models online that fit the colour scheme is hard
