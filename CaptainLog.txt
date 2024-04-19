@@ -159,3 +159,19 @@ https://poly.pizza/m/73a4yE7VyqD
 cactus texture (I made it green)
 polyhaven.com/a/sakura_bark
 The cactus model and fruit will be made by me since finding cactus models online that fit the colour scheme is hard
+
+24/04/19:
+Fruit texture (I'll make it purple)
+https://ambientcg.com/view?id=Metal046B
+I made the metal colour totally purple (and didn't use the metallic map cause it was too metalic)
+
+Now I need something more woody to go on the top.
+wood texture for the top of the fruit:
+https://ambientcg.com/view?id=PaintedWood007C
+
+I have drawn dots on the purple metal. It looks goofy but I'm proud of my baby.
+
+The renders for the fruit and also the screenshot is up. I just need to do the same for the pizza (the model is finished but not the images thereof).
+
+Rocks (for pretty stuff):
+https://assetstore.unity.com/packages/3d/props/exterior/rock-and-boulders-2-6947
