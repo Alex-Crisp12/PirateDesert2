@@ -175,3 +175,21 @@ The renders for the fruit and also the screenshot is up. I just need to do the s
 
 Rocks (for pretty stuff):
 https://assetstore.unity.com/packages/3d/props/exterior/rock-and-boulders-2-6947
+
+
+24/04/21:
+Grass added now
+https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-and-flowers-pack-1-17100
+
+Apparently grass is images?
+Like in Minecraft
+
+Also, I used the Mixamo Standing To Crouched animation.
+It didn't work
+Funny though.
+
+Flag models:
+https://assetstore.unity.com/packages/3d/props/exterior/cloth-animation-based-flag-65842
+https://assetstore.unity.com/packages/3d/props/realistic-flag-pack-116392
+
+Things only show up in the reflections if they're static.
