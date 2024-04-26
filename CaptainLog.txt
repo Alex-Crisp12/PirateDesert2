@@ -193,3 +193,15 @@ https://assetstore.unity.com/packages/3d/props/exterior/cloth-animation-based-fl
 https://assetstore.unity.com/packages/3d/props/realistic-flag-pack-116392
 
 Things only show up in the reflections if they're static.
+
+24/04/26:
+Sounds time
+Thruster drone:
+https://www.soundsnap.com/audio/download/55348.raw/55348-Airy_UFO_Steam_Thrusters_Drone_-Blast-Hover-Short.wav
+
+Wind sound Indoor, Outdoor:
+https://freesound.org/people/klankbeeld/sounds/625186/
+https://www.soundsnap.com/audio/download/325760.raw/325760-wind_ambient_outside_during_storm_between_buildings_howling_water_drops_and_different_clunks_2_mono_8040.wav
+
+Bird controller:
+https://assetstore.unity.com/packages/3d/characters/animals/birds/living-birds-15649

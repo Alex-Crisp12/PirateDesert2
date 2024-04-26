@@ -5,6 +5,8 @@ using UnityEngine;
 public class NewBehaviourScript : MonoBehaviour
 {
     public Animator animator;
+    public IndoorSound indoorSound;
+    public OutdoorSound outdoorSound;
 
     // Start is called before the first frame update
     void Start()
@@ -23,6 +25,8 @@ public class NewBehaviourScript : MonoBehaviour
         if (other.gameObject.CompareTag("Player"))
         {
             animator.SetBool("Open", true);
+            indoorSound.open = true;
+            outdoorSound.open = true;
         }
     }
 
@@ -31,6 +35,8 @@ public class NewBehaviourScript : MonoBehaviour
         if (other.gameObject.CompareTag("Player"))
         {
             animator.SetBool("Open", false);
+            indoorSound.open = false;
+            outdoorSound.open = false;
         }
     }
 }
