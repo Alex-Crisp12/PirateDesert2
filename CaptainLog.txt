@@ -205,3 +205,8 @@ https://www.soundsnap.com/audio/download/325760.raw/325760-wind_ambient_outside_
 
 Bird controller:
 https://assetstore.unity.com/packages/3d/characters/animals/birds/living-birds-15649
+
+Chess set:
+https://assetstore.unity.com/packages/3d/props/low-poly-chess-set-104629
+https://www.soundsnap.com/audio/download/476961.raw/476961-Bowed-Rubber-Tube-Simple-Performance-Medium-23.wav
+https://www.soundsnap.com/audio/download/476577.raw/476577-Bowed-Paper-Envelope-Simple-Performance-Short-03.wav
