@@ -21,7 +21,7 @@ public class PizzaScript : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.tag == "Player")
+        if (other.gameObject.CompareTag("Player"))
         {
             animator.SetTrigger("Open");
         }
@@ -29,7 +29,7 @@ public class PizzaScript : MonoBehaviour
 
     private void OnTriggerExit(Collider other)
     {
-        if (other.tag == "Player")
+        if (other.gameObject.CompareTag("Player"))
         {
             animator.SetTrigger("Close");
         }

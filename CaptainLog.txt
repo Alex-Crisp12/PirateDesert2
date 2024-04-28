@@ -208,5 +208,11 @@ https://assetstore.unity.com/packages/3d/characters/animals/birds/living-birds-1
 
 Chess set:
 https://assetstore.unity.com/packages/3d/props/low-poly-chess-set-104629
-https://www.soundsnap.com/audio/download/476961.raw/476961-Bowed-Rubber-Tube-Simple-Performance-Medium-23.wav
-https://www.soundsnap.com/audio/download/476577.raw/476577-Bowed-Paper-Envelope-Simple-Performance-Short-03.wav
+
+24/04/28:
+Sounds for Chess:
+https://freesound.org/people/roboroo/sounds/492932/
+https://freesound.org/people/HoseNoseSounds/sounds/510733/
+https://freesound.org/people/Anthousai/sounds/448324/
+
+Mixamo Sitting Talking with character Roth
